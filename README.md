@@ -1,4 +1,4 @@
-# My CachyOS + Hyprland + Noctalia Dotfiles (Look and Feel)
+# My Scuffed Dotfiles
 
 ## Prerequisites
 - Use CachyOS (Arch-based, Hyprland edition recommended).
