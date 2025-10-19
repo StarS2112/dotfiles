@@ -1,6 +1,6 @@
 # My Scuffed Dotfiles
 
-<image-card alt="GitHub Repo Preview" src="images/desktop-preview.png" ></image-card>
+<img src="images/desktop-preview.png" ></img>
 
 ## Prerequisites
 - Use CachyOS (Arch-based, Hyprland edition recommended).
